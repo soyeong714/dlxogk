@@ -1,0 +1,27 @@
+[
+    {
+        "title": "첫 번째 글",
+        "author": "관리자",
+        "like_count": 12,
+        "liked_users": [
+            "ㅇㅅㅇ"
+        ]
+    },
+    {
+        "title": "두 번째 글",
+        "author": "홍길동",
+        "like_count": 3,
+        "liked_users": [
+            "ㅇㅅㅇ"
+        ]
+    },
+    {
+        "title": "ddddd",
+        "content": "ddddddd",
+        "author": "ㅇㅅㅇ",
+        "like_count": 3,
+        "liked_users": [
+            "ㅇㅅㅇ"
+        ]
+    }
+]
